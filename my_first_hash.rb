@@ -29,6 +29,8 @@ def adding
   
 end
 
-shipping_manifest["muskets"] = 2
+  shipping_manifest["muskets"] = 2
   
   shipping_manifest["gun_powder"] = 4
+  
+end 

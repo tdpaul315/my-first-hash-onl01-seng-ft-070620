@@ -30,11 +30,9 @@ def adding
   
 
    shipping_manifest["muskets"] = "2"
-  
-  
    shipping_manifest["gun powder"] = "4"
 
-  # return the shipping_manifest hash below
+  
   puts shipping_manifest
 end
 

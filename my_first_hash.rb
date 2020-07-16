@@ -31,6 +31,6 @@ def adding
   
  shipping_manifest_manifest["gun_powder"] = "4"
 
-shipping_manifest
+
 
 end 
